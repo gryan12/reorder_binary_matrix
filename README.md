@@ -1,2 +1,4 @@
 # reorder_binary_matrix
-simple program to reorder the rows and columns of a matrix based on the results of hierarchal clustering
+
+Unlike with R, not as much work with python on reorganising data matrices to better visualise mutation data. 
+This code takes a matrix with containing binary expression data, and reorganises the rows and columns to facilitate visual comparability (typically would then visualise with heatmaps etc.)
