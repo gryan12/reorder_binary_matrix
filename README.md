@@ -1,4 +1,4 @@
 # reorder_binary_matrix
 
-Unlike with R, not as much code floating around for manipulating genome data. 
-This code takes a matrix containing binary expression data, and reorganises the rows and columns to facilitate visual comparability (typically would then visualise with heatmaps etc.)
+Useful code for reordering matrix containing e.g. binary expression data with hierarchal clustering. 
+Unlike with R, general lack of useful code for manipulating genetic data floating around. 
